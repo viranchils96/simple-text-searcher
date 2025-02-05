@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	utils "github.com/viranchils96/simple-text-search-engine/utils"
+	utils "github.com/viranchils96/simple-text-searcher/utils"
 )
 
 func main() {
